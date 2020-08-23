@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![wangyoucao577's github stats](https://github-readme-stats.vercel.app/api?username=wangyoucao577&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyoucao577&hide_title=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![wangyoucao577's github stats](https://github-readme-stats.vercel.app/api?username=wangyoucao577&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyoucao577&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
